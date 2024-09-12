@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-
+# Nanjing University - AI For Medicine - Fall 2024
 This course explores the intersection of artificial intelligence and medicine, focusing on how machine learning and deep learning can be used to tackle some of the most pressing challenges in drug design, diagnostics, and personalized medicine. Students will engage in both theoretical and practical aspects of applying AI to solve real-world drug design problems.
 
 ## Class Topics:
@@ -132,4 +132,4 @@ This course explores the intersection of artificial intelligence and medicine, f
 ## Additional Resources:
 - [Course Syllabus](https://box.nju.edu.cn/f/eceacfcbec424447b87f/)
 - [Project Guidelines](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
-- [FAQ](#)
+- [FAQ](https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/faq)
