@@ -1,11 +1,9 @@
 # Nanjing University - AI For Medicine - Fall 2024
 
-![AI for Medicine](https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/assets/banner.png);  
-
-
+![AI for Medicine](https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/assets/banner.png)
 ---
 
-## Welcome to the AI for Medicine Class!
+## Welcome!
 
 This course explores the intersection of artificial intelligence and medicine, focusing on how machine learning and deep learning can be used to tackle some of the most pressing challenges in drug design, diagnostics, and personalized medicine. Students will engage in both theoretical and practical aspects of applying AI to solve real-world drug design problems.
 
