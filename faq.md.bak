@@ -7,6 +7,7 @@ header:
   alt: "AI for Medicine Banner"
   show_title: false
 classes: wide
+no_toc: true 
 ---
 
 ### **How often is the class offered?**
