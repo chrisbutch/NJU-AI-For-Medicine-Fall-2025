@@ -5,4 +5,4 @@ plugins:
   - jekyll-include-cache
   
 # Custom CSS
-css: "/assets/custom.css"
+css: "assets/custom.css"
