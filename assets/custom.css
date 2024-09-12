@@ -1,6 +1,6 @@
 /* Custom banner override */
 .page-header {
-  background-image: url('/assets/banner.png');
+  background-image: url('https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/assets/banner.png');
   background-size: cover;
   background-position: center;
   height: 400px; /* Adjust height to your preference */
