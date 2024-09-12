@@ -8,24 +8,20 @@ header:
 classes: wide
 ---
 
-# Nanjing University - AI For Medicine - Fall 2024
+
 This course explores the intersection of artificial intelligence and medicine, focusing on how machine learning and deep learning can be used to tackle some of the most pressing challenges in drug design, diagnostics, and personalized medicine. Students will engage in both theoretical and practical aspects of applying AI to solve real-world drug design problems.
 
 ## Class Topics:
 ### 1. Drug Design Challenges and Molecular Representations
-
 - Major challenges, SMILES, fingerprint classifiers, and problem types in medicine.
 
 ### 2. Machine Learning Models
-
 - Classifiers, evaluation metrics, graph-based models, and ChemProp.
 
 ### 3. Advanced AI in Drug Design
-
 - Chemical space embeddings, large language models (LLMs), and 3D generative models.
 
 ### 4. Integration and Application
-
 - Midterm project, protein featurization, and integration of ML/DL techniques.
 
 ---
