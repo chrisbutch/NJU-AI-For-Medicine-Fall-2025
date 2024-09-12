@@ -1,3 +1,6 @@
+header:
+  image: /assets/banner.png
+  
 # Nanjing University - AI For Medicine - Fall 2024
 
 ![AI for Medicine](https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/assets/banner.png)
