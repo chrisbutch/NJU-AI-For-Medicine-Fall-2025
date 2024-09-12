@@ -1,4 +1,5 @@
 ---
+layout: single
 header:
   image: /assets/banner.png
   overlay: true

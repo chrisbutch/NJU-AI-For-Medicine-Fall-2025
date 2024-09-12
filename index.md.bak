@@ -7,7 +7,6 @@ header:
   show_title: false
 classes: wide
 ---
-
 # Nanjing University - AI For Medicine (080500D20) - Fall 2024
 This course explores the intersection of artificial intelligence and medicine, focusing on how machine learning and deep learning can be used to tackle some of the most pressing challenges in drug design, diagnostics, and personalized medicine. Students will engage in both theoretical and practical aspects of applying AI to solve real-world drug design problems.
 
