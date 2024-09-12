@@ -1,3 +1,13 @@
+---
+header:
+  image: /assets/banner.png
+  overlay: true
+  caption: "Nanjing University - AI For Medicine - Fall 2024"
+  alt: "AI for Medicine Banner"
+  show_title: false
+classes: wide
+---
+
 ### **How often is the class offered?**
 The class is offered every **Fall** semester.
 
