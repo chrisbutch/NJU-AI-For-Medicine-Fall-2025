@@ -33,39 +33,106 @@ This course explores the intersection of artificial intelligence and medicine, f
 
 ## Course Schedule
 
-### Week 1: Introduction to Major Challenges in Drug Design
+### Class 1: Introduction to Major Challenges in Drug Design
 - **Slides**: [View Slides](https://box.nju.edu.cn/f/58e3d956771c4f3cbc33/)
 - **Recording**: [Download Recording](https://box.nju.edu.cn/f/1828717361c5485dac2e/?dl=1)
 - **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-1)
 - **Readings**: [Generative AI for Drug Design](https://box.nju.edu.cn/f/3d48c811e7724b838922/)
 
+
+### Class 2: SMILES and Fingerprint-Based Classifiers
 <!-- 
-### Week 2: SMILES and Fingerprint-Based Classifiers
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
+-->
 
-### Week 3: Different Classes of Problems in Medicine
+### Class 3: Different Classes of Problems in Medicine
+<!-- 
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 3](#)
+- **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
+-->
 
-### Week 4: Building Simple Classifiers
+### Class 4: Building and Comparing Simple Classifiers
+<!-- 
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 4](#)
+- **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
+-->
 
-### Week 5: Evaluation Metrics and Comparison Statistics for Classifiers
+### Class 5: Introduction to Graph Based Models
+<!-- 
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 5](#)
+- **Homework**: [Assignment 2](#)
 - **Readings**: [Required Reading](#)
+-->
+
+### Class 6: ChemProp and Advanced Graph Models
+<!-- 
+- **Slides**: [Download Slides](#)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 2](#)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 7: Protein Featurization
+<!-- 
+- **Slides**: [Download Slides](#)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 2](#)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 8: Review 
+<!-- 
+- **Slides**: [Download Slides](#)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 2](#)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 9: LLMs and Chemical Space Embeddings 
+<!-- 
+- **Slides**: [Download Slides](#)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 2](#)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 10: Advanced LLM Techniques in Drug Design 
+<!-- 
+- **Slides**: [Download Slides](#)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 2](#)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 11: 3D Generative Models 
+<!-- 
+- **Slides**: [Download Slides](#)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 2](#)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 12: Integration of ML/DL Techniques 
+<!-- 
+- **Slides**: [Download Slides](#)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 2](#)
+- **Readings**: [Required Reading](#)
+-->
+
+
+
 
 ---
--->
+
 
 ## Additional Resources:
 - [Course Syllabus](https://box.nju.edu.cn/f/eceacfcbec424447b87f/)
