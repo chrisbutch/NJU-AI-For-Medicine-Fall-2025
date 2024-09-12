@@ -3,4 +3,4 @@ plugins:
   - jekyll-remote-theme # add this if not already included
 
 # Custom CSS
-css: "/assets/custom.css"
+css: "https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/assets/custom.css"
