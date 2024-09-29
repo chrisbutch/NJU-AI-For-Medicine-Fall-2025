@@ -29,7 +29,7 @@ This course explores the intersection of artificial intelligence and medicine, f
 ---
 
 # Turn in Your Homework
-- [Upload Here](https://box.nju.edu.cn/u/d/e7cbd749ec98412ea7fe/)
+- [Upload Here](https://box.nju.edu.cn/u/d/969c224f711a46ef83df/)
 - **Format**: Name - Student Number - HW# .pdf / .ipynb
 - **Example**: Prof.Chris-12345678-HW1.pdf 
 
