@@ -41,7 +41,7 @@ This course explores the intersection of artificial intelligence and medicine, f
 - **Slides**: [View Slides](https://box.nju.edu.cn/f/58e3d956771c4f3cbc33/)
 - **Recording**: [Download Recording](https://box.nju.edu.cn/f/1828717361c5485dac2e/?dl=1)
 - **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-1)
-- **Readings**: [Generative AI for Drug Design](https://box.nju.edu.cn/f/3d48c811e7724b838922/)
+- **Readings**: [Required Reading - Generative AI for Drug Design](https://box.nju.edu.cn/f/3d48c811e7724b838922/)
 
 
 ### Class 2: SMILES and Fingerprint-Based Descriptors
@@ -49,16 +49,16 @@ This course explores the intersection of artificial intelligence and medicine, f
 - **Recording**: [View Recording](https://box.nju.edu.cn/f/06cf6708323d4fd8a9b3/)
 - **Homework**: [Assignment 2](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-2)
 - **Readings**: 
-  [Required Reading](https://box.nju.edu.cn/f/cdc1ee58e51547f09b81/)
-  [Suggested Reading](https://box.nju.edu.cn/f/fabde827e2f844188c95/)
+  [Required Reading - Deep Learning for the Life Sciences - Chapter 4 – Pages 41-52](https://box.nju.edu.cn/f/cdc1ee58e51547f09b81/)
+  [Suggested Reading - Molecular Representations in AI-driven Drug Discovery](https://box.nju.edu.cn/f/fabde827e2f844188c95/)
 
-### Class 3: Different Classes of Problems in Medicine
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 3](#)
-- **Readings**: [Required Reading](#)
--->
+### Class 3: Simple Classifiers, Different Classes of Problems in Medicine
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/35fbf7a0aff6428c81af/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/5ac70df3324747a3a0b7/)
+- **Homework**: [Assignment 3](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-3)
+- **Readings**: [Required Reading - Fundamentals of Machine Learning and Deep Learning in Medicine - Chapter 1](https://box.nju.edu.cn/f/ebbdf4ca8b574b7a8ac6/)
+
 
 ### Class 4: Building and Comparing Simple Classifiers
 <!-- 

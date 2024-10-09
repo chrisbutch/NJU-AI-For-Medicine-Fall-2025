@@ -46,7 +46,7 @@ This course explores the intersection of artificial intelligence and medicine, f
 
 ### Class 2: SMILES and Fingerprint-Based Descriptors
 - **Slides**: [Download Slides](https://box.nju.edu.cn/f/9f5198b0ede3404fa47f/)
-- **Recording**: [Not Yet Available](#)
+- **Recording**: [View Recording](https://box.nju.edu.cn/f/06cf6708323d4fd8a9b3/)
 - **Homework**: [Assignment 2](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-2)
 - **Readings**: 
   [Required Reading](https://box.nju.edu.cn/f/cdc1ee58e51547f09b81/)
