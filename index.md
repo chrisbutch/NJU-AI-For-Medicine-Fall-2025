@@ -61,20 +61,22 @@ This course explores the intersection of artificial intelligence and medicine, f
 
 
 ### Class 4: Building and Comparing Simple Classifiers
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/4aab21d95cd74cf6b2e8/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/df670b16efd741259cd6/)
+- **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-4)
+Readings**: 
+  [Suggested Reading - Evaluation metrics and statistical tests for machine learning](https://box.nju.edu.cn/f/5e221b6ddf5c4741aa78/)
+
 
 ### Class 5: Introduction to Graph Based Models
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+ 
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/5f3ef631978341e5a0f9/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/a73d848cc4414d43b479/)
+- **Homework**: [Assignment 5](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-5/)
+*Readings**: 
+  [Suggested Reading - Can GNNs Learn Better Molecular Descriptors](https://box.nju.edu.cn/f/17ee05f747644a2e979b/)
+
 
 ### Class 6: ChemProp and Advanced Graph Models
 <!-- 
