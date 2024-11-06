@@ -65,7 +65,7 @@ This course explores the intersection of artificial intelligence and medicine, f
 - **Slides**: [Download Slides](https://box.nju.edu.cn/f/4aab21d95cd74cf6b2e8/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/df670b16efd741259cd6/)
 - **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-4)
-Readings**: 
+- **Readings**: 
   [Suggested Reading - Evaluation metrics and statistical tests for machine learning](https://box.nju.edu.cn/f/5e221b6ddf5c4741aa78/)
 
 
@@ -74,25 +74,29 @@ Readings**:
 - **Slides**: [Download Slides](https://box.nju.edu.cn/f/5f3ef631978341e5a0f9/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/a73d848cc4414d43b479/)
 - **Homework**: [Assignment 5](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-5/)
-*Readings**: 
+- **Readings**: 
   [Suggested Reading - Can GNNs Learn Better Molecular Descriptors](https://box.nju.edu.cn/f/17ee05f747644a2e979b/)
 
 
 ### Class 6: ChemProp and Advanced Graph Models
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+ 
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/03d8d0342c814fe0a353/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/32612d7b385041bcaada/)
+- **Homework**: [Assignment 6](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-6)
+- **Readings**: 
+  [Suggested Reading - A Deep Learning Approach to Antibiotic Discovery](https://box.nju.edu.cn/f/1e01b2c6831240a89d0f/)
+
 
 ### Class 7: Protein Featurization
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 2](#)
-- **Readings**: [Required Reading](#)
--->
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/c432b649c8c844f48b1e/)
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/3ec9215d285340f0ab3d/)
+- **Homework**: [One Page Project Proposal Due](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
+- **Readings**: 
+  [Suggested Reading - AlphaFold Accelerated Discovery of Psychotropic Agonists](https://box.nju.edu.cn/f/8839ba19a2574f4e9525/)
+  [Suggested Reading - Big Data And Benchmarking Initiatives To Bridge The Gap From Alphafold To Drug Design](https://box.nju.edu.cn/f/6f5a186385a74ed6a4c1/)
+  [Suggested Reading - Five Protein Design Question that Still Challenge AI](https://box.nju.edu.cn/f/16cc08ecec914a9399c1/)
+
 
 ### Class 8: Review 
 <!-- 
