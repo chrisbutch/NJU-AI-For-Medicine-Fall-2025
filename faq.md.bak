@@ -1,14 +1,14 @@
 ---
 layout: single
-header:
-  image: /assets/banner.png
-  overlay: true
-  caption: "Nanjing University - AI For Medicine - Fall 2024"
-  alt: "AI for Medicine Banner"
-  show_title: false
-classes: wide
-no_toc: true 
 title: Frequently Asked Questions (FAQ)
+classes: wide
+no_toc: true
+show_title: false
+header:
+  overlay_image: "{{ '/assets/banner.png' | relative_url }}"
+  overlay_filter: 0.15
+  caption: "Nanjing University - AI For Medicine - Fall 2025"
+  alt: "AI for Medicine Banner"
 ---
 
 ### **How often is the class offered?**

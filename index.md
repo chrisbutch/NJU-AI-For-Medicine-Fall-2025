@@ -1,13 +1,14 @@
 ---
-header:
-  image: /assets/banner.png
-  overlay: true
-  caption: "Nanjing University - AI For Medicine - Fall 2025
-  alt: "AI for Medicine Banner"
-  show_title: false
-classes: wide
-no_toc: true 
+layout: single
 title: Nanjing University - AI For Medicine (19003690) - Fall 2025
+classes: wide
+no_toc: true
+show_title: false
+header:
+  overlay_image: "{{ '/assets/banner.png' | relative_url }}"
+  overlay_filter: 0.15
+  caption: "Nanjing University - AI For Medicine - Fall 2025"
+  alt: "AI for Medicine Banner"
 ---
 
 
@@ -151,4 +152,4 @@ This course explores the intersection of artificial intelligence and medicine, f
 ## Additional Resources:
 - [Course Syllabus](https://box.nju.edu.cn/f/eceacfcbec424447b87f/)
 - [Project Guidelines](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
-- [FAQ](https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2025/faq)
+- [FAQ]({{ '/faq' | relative_url }})

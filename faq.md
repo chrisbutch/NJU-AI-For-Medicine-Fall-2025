@@ -1,14 +1,14 @@
 ---
 layout: single
+title: Nanjing University - AI For Medicine (19003690) - Fall 2025
+classes: wide
+no_toc: true
+show_title: false
 header:
-  image: /assets/banner.png
-  overlay: true
+  overlay_image: "{{ '/assets/banner.png' | relative_url }}"
+  overlay_filter: 0.15
   caption: "Nanjing University - AI For Medicine - Fall 2025"
   alt: "AI for Medicine Banner"
-  show_title: false
-classes: wide
-no_toc: true 
-title: Frequently Asked Questions (FAQ)
 ---
 
 ### **How often is the class offered?**
