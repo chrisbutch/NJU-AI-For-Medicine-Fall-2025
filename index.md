@@ -151,4 +151,4 @@ This course explores the intersection of artificial intelligence and medicine, f
 ## Additional Resources:
 - [Course Syllabus](https://box.nju.edu.cn/f/eceacfcbec424447b87f/)
 - [Project Guidelines](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
-- [FAQ](https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2024/faq)
+- [FAQ](https://chrisbutch.github.io/NJU-AI-For-Medicine-Fall-2025/faq)
