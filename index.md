@@ -38,14 +38,16 @@ This course explores the intersection of artificial intelligence and medicine, f
 ## Course Schedule
 
 ### Class 1: Introduction to Major Challenges in Drug Design
-<!- **Slides**: [View Slides](https://box.nju.edu.cn/f/58e3d956771c4f3cbc33/)
-- **Recording**: [Download Recording](https://box.nju.edu.cn/f/1828717361c5485dac2e/?dl=1)
-- **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-1)
+
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/58e3d956771c4f3cbc33/)
+- **Recording**: [Will be uploaded the morning after class] <!--[Download Recording](https://box.nju.edu.cn/f/1828717361c5485dac2e/?dl=1)-->
+- **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-1)
 - **Readings**: [Required Reading - Generative AI for Drug Design](https://box.nju.edu.cn/f/3d48c811e7724b838922/)
--->
+
 
 ### Class 2: SMILES and Fingerprint-Based Descriptors
-<!- **Slides**: [Download Slides](https://box.nju.edu.cn/f/9f5198b0ede3404fa47f/)
+<!--
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/9f5198b0ede3404fa47f/)
 - **Recording**: [View Recording](https://box.nju.edu.cn/f/06cf6708323d4fd8a9b3/)
 - **Homework**: [Assignment 2](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-2)
 - **Readings**: 
@@ -54,16 +56,16 @@ This course explores the intersection of artificial intelligence and medicine, f
 -->
 
 ### Class 3: Simple Classifiers, Different Classes of Problems in Medicine
-
-<!- **Slides**: [Download Slides](https://box.nju.edu.cn/f/35fbf7a0aff6428c81af/)
+<!--
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/35fbf7a0aff6428c81af/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/5ac70df3324747a3a0b7/)
 - **Homework**: [Assignment 3](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-3)
 - **Readings**: [Required Reading - Fundamentals of Machine Learning and Deep Learning in Medicine - Chapter 1](https://box.nju.edu.cn/f/ebbdf4ca8b574b7a8ac6/)
 -->
 
 ### Class 4: Building and Comparing Simple Classifiers
-
-<!- **Slides**: [Download Slides](https://box.nju.edu.cn/f/4aab21d95cd74cf6b2e8/)
+<!--
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/4aab21d95cd74cf6b2e8/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/df670b16efd741259cd6/)
 - **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-4)
 - **Readings**: 
@@ -71,8 +73,8 @@ This course explores the intersection of artificial intelligence and medicine, f
 -->
 
 ### Class 5: Introduction to Graph Based Models
- 
-<!- **Slides**: [Download Slides](https://box.nju.edu.cn/f/5f3ef631978341e5a0f9/)
+<!-- 
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/5f3ef631978341e5a0f9/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/a73d848cc4414d43b479/)
 - **Homework**: [Assignment 5](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-5/)
 - **Readings**: 
@@ -80,8 +82,8 @@ This course explores the intersection of artificial intelligence and medicine, f
 -->
 
 ### Class 6: ChemProp and Advanced Graph Models
- 
-<!- **Slides**: [Download Slides](https://box.nju.edu.cn/f/03d8d0342c814fe0a353/)
+<!-- 
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/03d8d0342c814fe0a353/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/32612d7b385041bcaada/)
 - **Homework**: [Assignment 6](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2024-class-6)
 - **Readings**: 
@@ -90,7 +92,8 @@ This course explores the intersection of artificial intelligence and medicine, f
 
 ### Class 7: Protein Featurization
 
-<!- **Slides**: [Download Slides](https://box.nju.edu.cn/f/c432b649c8c844f48b1e/)
+<!--
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/c432b649c8c844f48b1e/)
 - **Recording**: [Watch Recording](https://box.nju.edu.cn/f/3ec9215d285340f0ab3d/)
 - **Homework**: [One Page Project Proposal Due](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
 - **Readings**: 
