@@ -150,6 +150,6 @@ This course explores the intersection of artificial intelligence and medicine, f
 
 
 ## Additional Resources:
-- [Course Syllabus](https://box.nju.edu.cn/f/eceacfcbec424447b87f/)
+- [Course Syllabus](https://box.nju.edu.cn/f/19f2731e06e34accb871/)
 - [Project Guidelines](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
 - [FAQ]({{ '/faq' | relative_url }})
