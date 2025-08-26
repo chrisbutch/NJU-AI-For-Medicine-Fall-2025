@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: single            
 title: Nanjing University - AI For Medicine (19003690) - Fall 2025
 classes: wide
 no_toc: true
 show_title: false
 header:
-  overlay_image: "{{ '/assets/banner.png' | relative_url }}"
+  overlay_image: /assets/banner.png
   overlay_filter: 0.15
   caption: "Nanjing University - AI For Medicine - Fall 2025"
   alt: "AI for Medicine Banner"
@@ -40,7 +40,7 @@ This course explores the intersection of artificial intelligence and medicine, f
 
 ### Class 1: Introduction to Major Challenges in Drug Design
 
-- **Slides**: [View Slides](https://box.nju.edu.cn/f/58e3d956771c4f3cbc33/)
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/9337d5e179e74c59a992/)
 - **Recording**: [Will be uploaded the morning after class] <!--[Download Recording](https://box.nju.edu.cn/f/1828717361c5485dac2e/?dl=1)-->
 - **Homework**: [Assignment 1](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-1)
 - **Readings**: [Required Reading - Generative AI for Drug Design](https://box.nju.edu.cn/f/3d48c811e7724b838922/)

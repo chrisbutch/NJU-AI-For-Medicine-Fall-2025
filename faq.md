@@ -5,7 +5,7 @@ classes: wide
 no_toc: true
 show_title: false
 header:
-  overlay_image: "{{ '/assets/banner.png' | relative_url }}"
+  overlay_image: /assets/banner.png
   overlay_filter: 0.15
   caption: "Nanjing University - AI For Medicine - Fall 2025"
   alt: "AI for Medicine Banner"
