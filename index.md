@@ -60,7 +60,7 @@ This course explores the intersection of artificial intelligence and medicine, f
 ### Class 3 - (Sep 9): Different Classes of Problems in Medicine + Building Simple Classifiers
 
 - **Slides**: [Download Slides](https://box.nju.edu.cn/f/e1fa79e042e9438d808c/)
-- **Recording**: Will be posted after class<!--[Watch Recording](#)-->
+- **Recording**: [Watch Recording](https://box.nju.edu.cn/f/0d18f32aaef04c8caa94/)
 - **Homework**: [Assignment 3](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-3)
 - **Readings**: [Required Reading - Fundamentals of Machine Learning and Deep Learning in Medicine - Chapter 1](https://box.nju.edu.cn/f/ebbdf4ca8b574b7a8ac6/)
 
