@@ -65,14 +65,14 @@ This course explores the intersection of artificial intelligence and medicine, f
 - **Readings**: [Required Reading - Fundamentals of Machine Learning and Deep Learning in Medicine - Chapter 1](https://box.nju.edu.cn/f/ebbdf4ca8b574b7a8ac6/)
 
 
-### Class 4 - (Sep 16): Evaluation Metrics and Comparison Statistics for Classifiers + Implementing Neural Network Classifiers
-<!--
-- **Slides**: [Download Slides](#)
+### Class 4 - (Sep 16): Property Prediction and Building Simple Regressor Models
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/7e6c26d5057b4e1494d6/)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 4](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-4)
 - **Readings**: 
-  [Suggested Reading - Evaluation metrics and statistical tests for machine learning](https://box.nju.edu.cn/f/5e221b6ddf5c4741aa78/)
--->
+  [Suggested Reading - Derivation of the Ordinary Least Squares Regressor](https://statproofbook.github.io/P/slr-ols.html)
+
 
 ### Class 5 - (Sep 23): Introduction to Graph-Based Models
 <!-- 
