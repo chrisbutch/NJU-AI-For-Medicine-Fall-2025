@@ -74,25 +74,25 @@ This course explores the intersection of artificial intelligence and medicine, f
   [Suggested Reading - Derivation of the Ordinary Least Squares Regressor](https://statproofbook.github.io/P/slr-ols.html)
 
 
-### Class 5 - (Sep 23): Introduction to Graph-Based Models
-<!-- 
-- **Slides**: [Download Slides](#)
+### Class 5 - (Sep 23): Evaluation Metrics and Comparison Statistics 
+
+ 
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/43d0570cd2e44a1084b2/)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 5](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-5)
 - **Readings**: 
   [Suggested Reading - Can GNNs Learn Better Molecular Descriptors](https://box.nju.edu.cn/f/17ee05f747644a2e979b/)
--->
 
-### Class 6 - (Sep 30): Implementing ChemProp + Advanced Graph-Based Models
-<!-- 
-- **Slides**: [Download Slides](#)
+### Class 6 - (Sep 30): Implementing Neural Network Classifiers (LSTM & CNN)
+
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/46437a6a2f604b2ab112/)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 6](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-6)
-- **Readings**: 
-  [Suggested Reading - A Deep Learning Approach to Antibiotic Discovery](https://box.nju.edu.cn/f/1e01b2c6831240a89d0f/)
--->
+- **Readings**: [Suggested Reading - Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
 
-### Class 7 - (Oct 7): Introduction to Chemical Space Embeddings + Large Language Models (LLMs)
+
+### No Class - (Oct 7): Make Up Video Will Be Posted
 <!--
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
@@ -103,24 +103,26 @@ This course explores the intersection of artificial intelligence and medicine, f
   [Suggested Reading - Five Protein Design Question that Still Challenge AI](https://box.nju.edu.cn/f/16cc08ecec914a9399c1/)
 -->
 
-### Class 8 - (Oct 14): Advanced LLM Techniques in Drug Design
-<!-- 
-- **Slides**: [Download Slides](#)
-- **Recording**: [Watch Recording](#)
-- **Homework**: [Assignment 8](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-8)
-- **Readings**: [Required Reading](#)
--->
+### Class 7 - (Oct 14): Implementing Neural Network Classifiers (LSTM & CNN)
 
-### Class 9 - (Oct 21): 3D Generative Models
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/30358f38f51b48c1a48e/)
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 8 - Chemical Auto Encoder](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-7)
+- **Readings**: [Suggested Reading - Automatic Chemical Design Usign Autoencoders (2018)](https://box.nju.edu.cn/f/5824935aad204f4ba886/)
+
+
 <!-- 
+### Class 9 - (Oct 21): 3D Generative Models
+
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 9](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-9)
 - **Readings**: [Required Reading](#)
--->
+
 
 ### Class 10 - (Oct 28): Protein Featurization and LTI Predictions
-<!--
+
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [One Page Project Proposal Due](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
@@ -128,23 +130,23 @@ This course explores the intersection of artificial intelligence and medicine, f
   [Suggested Reading - AlphaFold Accelerated Discovery of Psychotropic Agonists](https://box.nju.edu.cn/f/8839ba19a2574f4e9525/)
   [Suggested Reading - Big Data And Benchmarking Initiatives To Bridge The Gap From Alphafold To Drug Design](https://box.nju.edu.cn/f/6f5a186385a74ed6a4c1/)
   [Suggested Reading - Five Protein Design Question that Still Challenge AI](https://box.nju.edu.cn/f/16cc08ecec914a9399c1/)
--->
+
 
 ### Class 11 - (Nov 4): Midterm Review and Project Proposal **(Midterm Assigned)**
-<!-- 
+
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 11](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-11)
 - **Readings**: [Required Reading](#)
--->
+
 
 ### Class 12 - (Nov 11): Integration of ML/DL Techniques **(Midterm Due)**
-<!-- 
+
 - **Slides**: [Download Slides](#)
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 12](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-12)
 - **Readings**: [Required Reading](#)
--->
+
 
 ### Class 13 - (Nov 18): Multi-Modal AI in Drug Discovery
 
@@ -153,6 +155,7 @@ This course explores the intersection of artificial intelligence and medicine, f
 ### Class 15 - (Dec 2): Advanced Protein Structure Prediction (AlphaFold)
 
 ### Class 16 - (Dec 9): AI Ethics and Regulatory Considerations
+-->
 
 ---
 
