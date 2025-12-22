@@ -112,52 +112,73 @@ This course explores the intersection of artificial intelligence and medicine, f
 - **Readings**: [Suggested Reading - Automatic Chemical Design Usign Autoencoders (2018)](https://box.nju.edu.cn/f/5824935aad204f4ba886/)
 
 
-<!-- 
-### Class 9 - (Oct 21): 3D Generative Models
 
-- **Slides**: [Download Slides](#)
+### Class 8 - (Oct 21): Defining Data Structure - Autoencoders and Inductive Bias
+
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/5d5b6a4244304070b5a0/)
+
+<!-- 
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 9](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-9)
 - **Readings**: [Required Reading](#)
+-->
 
+### Class 9 - (Oct 28): Graph Neural Networks
 
-### Class 10 - (Oct 28): Protein Featurization and LTI Predictions
-
-- **Slides**: [Download Slides](#)
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/a89b5564618147609477/)
+<!-- 
 - **Recording**: [Watch Recording](#)
 - **Homework**: [One Page Project Proposal Due](https://box.nju.edu.cn/f/d693b1bfbe8544ffadba/)
 - **Readings**: 
   [Suggested Reading - AlphaFold Accelerated Discovery of Psychotropic Agonists](https://box.nju.edu.cn/f/8839ba19a2574f4e9525/)
   [Suggested Reading - Big Data And Benchmarking Initiatives To Bridge The Gap From Alphafold To Drug Design](https://box.nju.edu.cn/f/6f5a186385a74ed6a4c1/)
   [Suggested Reading - Five Protein Design Question that Still Challenge AI](https://box.nju.edu.cn/f/16cc08ecec914a9399c1/)
+-->
 
+### Class 10 - (Nov 4): Advanced Graph Models 
 
-### Class 11 - (Nov 4): Midterm Review and Project Proposal **(Midterm Assigned)**
-
-- **Slides**: [Download Slides](#)
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/87672242510f4253ab29/)
+<!-- 
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 11](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-11)
 - **Readings**: [Required Reading](#)
+-->
 
-
-### Class 12 - (Nov 11): Integration of ML/DL Techniques **(Midterm Due)**
-
-- **Slides**: [Download Slides](#)
+### Class 11 - (Nov 11): Attention and Transformers 
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/cf13447d9f774505a4a4/)
+<!-- 
 - **Recording**: [Watch Recording](#)
 - **Homework**: [Assignment 12](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-12)
 - **Readings**: [Required Reading](#)
-
-
-### Class 13 - (Nov 18): Multi-Modal AI in Drug Discovery
-
-### Class 14 - (Nov 25): Clinical Trial Outcome Prediction
-
-### Class 15 - (Dec 2): Advanced Protein Structure Prediction (AlphaFold)
-
-### Class 16 - (Dec 9): AI Ethics and Regulatory Considerations
 -->
 
----
+### Class 12 - (Nov 18): Chemical LLMs
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/aaa88299272943ddb433/)
+
+<!-- 
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 9](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-9)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 13 - (Nov 25): Graph Attention Models
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/0e288e7d93724fa39bdc/)
+
+<!-- 
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 9](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-9)
+- **Readings**: [Required Reading](#)
+-->
+
+### Class 14 - (Dec 2): Protein Modelling, Docking, and DiffDock
+- **Slides**: [Download Slides](https://box.nju.edu.cn/f/03665acc160b42049b0c/)
+
+<!-- 
+- **Recording**: [Watch Recording](#)
+- **Homework**: [Assignment 9](https://www.kaggle.com/code/chrisbutch/nju-ai-for-medicine-2025-class-9)
+- **Readings**: [Required Reading](#)
+-->
+
 
 
 ## Additional Resources:
